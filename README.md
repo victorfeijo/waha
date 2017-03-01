@@ -1,3 +1,3 @@
 # Waha
 
-### **Wa**t's **Ha**ppening
+--- **W**h**a**t's **Ha**ppening ---
